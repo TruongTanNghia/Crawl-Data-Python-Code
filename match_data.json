@@ -1,0 +1,682 @@
+{
+    "listMatchs": {
+        "2023-08-13": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "5",
+                "match_id": 41185,
+                "match_date": "2023-08-13",
+                "match_round": "d",
+                "match_ticket": "$30",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-08-15": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "4",
+                "match_id": 41185,
+                "match_date": "2023-08-15",
+                "match_round": "d",
+                "match_ticket": "$100, $40",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-08-16": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "1",
+                "match_id": 41185,
+                "match_date": "2023-08-16",
+                "match_round": "d",
+                "match_ticket": "$100,$40",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-08-19": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "0",
+                "match_id": 41185,
+                "match_date": "2023-08-19",
+                "match_round": "d",
+                "match_ticket": "$80, $30",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-08-20": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "4",
+                "match_id": 41185,
+                "match_date": "2023-08-20",
+                "match_round": "d",
+                "match_ticket": "T.B.C",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-08-22": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "0",
+                "match_id": 41185,
+                "match_date": "2023-08-22",
+                "match_round": "d",
+                "match_ticket": "AFC Champions League Playoff",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-08-26": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "0",
+                "match_id": 41185,
+                "match_date": "2023-08-26",
+                "match_round": "d",
+                "match_ticket": "$80, $30",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-08-27": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "0",
+                "match_id": 41185,
+                "match_date": "2023-08-27",
+                "match_round": "d",
+                "match_ticket": "$80, $30",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-09-02": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "15:00",
+                "match_id": 41185,
+                "match_date": "2023-09-02",
+                "match_round": "d",
+                "match_ticket": "$100,$40",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-09-03": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "4",
+                "match_id": 41185,
+                "match_date": "2023-09-03",
+                "match_round": "d",
+                "match_ticket": "$80, $30",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-09-07": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "1",
+                "match_id": 41185,
+                "match_date": "2023-09-07",
+                "match_round": "d",
+                "match_ticket": "International Friendly Match",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-09-11": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "0",
+                "match_id": 41185,
+                "match_date": "2023-09-11",
+                "match_round": "d",
+                "match_ticket": "$160, $40",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-09-16": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "1",
+                "match_id": 41185,
+                "match_date": "2023-09-16",
+                "match_round": "d",
+                "match_ticket": "$120, $50",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-09-17": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "1",
+                "match_id": 41185,
+                "match_date": "2023-09-17",
+                "match_round": "d",
+                "match_ticket": "$80, $30",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-09-20": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "1",
+                "match_id": 41185,
+                "match_date": "2023-09-20",
+                "match_round": "d",
+                "match_ticket": "AFC Champions League (Group F)",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-09-22": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "1",
+                "match_id": 41185,
+                "match_date": "2023-09-22",
+                "match_round": "d",
+                "match_ticket": "Hong Kong Premier Youth League U18 (Championship Group)",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-09-23": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "1",
+                "match_id": 41185,
+                "match_date": "2023-09-23",
+                "match_round": "d",
+                "match_ticket": "Hong Kong Premier Youth League U14 (Challenging Group)",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-09-24": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "4",
+                "match_id": 41185,
+                "match_date": "2023-09-24",
+                "match_round": "d",
+                "match_ticket": "3rd Division",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            },
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "1",
+                "match_id": 41185,
+                "match_date": "2023-09-24",
+                "match_round": "d",
+                "match_ticket": "3rd Division",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-09-26": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "5",
+                "match_id": 41185,
+                "match_date": "2023-09-26",
+                "match_round": "d",
+                "match_ticket": "Jockey Club Futsal League - Division 3",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-09-27": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "1",
+                "match_id": 41185,
+                "match_date": "2023-09-27",
+                "match_round": "d",
+                "match_ticket": "Jockey Club Futsal League - Division 3",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-09-28": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "0",
+                "match_id": 41185,
+                "match_date": "2023-09-28",
+                "match_round": "d",
+                "match_ticket": "Jockey Club Futsal League - Division 3",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-09-30": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "6",
+                "match_id": 41185,
+                "match_date": "2023-09-30",
+                "match_round": "d",
+                "match_ticket": "Hong Kong Premier Youth League U14 (Championship Group)",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-10-01": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "3",
+                "match_id": 41185,
+                "match_date": "2023-10-01",
+                "match_round": "d",
+                "match_ticket": "2nd Division",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            },
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "4",
+                "match_id": 41185,
+                "match_date": "2023-10-01",
+                "match_round": "d",
+                "match_ticket": "$100, $40New Schedule",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-10-03": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "5",
+                "match_id": 41185,
+                "match_date": "2023-10-03",
+                "match_round": "d",
+                "match_ticket": "Jockey Club Futsal League - Division 3",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-10-04": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "2",
+                "match_id": 41185,
+                "match_date": "2023-10-04",
+                "match_round": "d",
+                "match_ticket": "Jockey Club Futsal League - Division 3",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-10-05": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "4",
+                "match_id": 41185,
+                "match_date": "2023-10-05",
+                "match_round": "d",
+                "match_ticket": "Jockey Club Futsal League - Division 3",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-10-06": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "2",
+                "match_id": 41185,
+                "match_date": "2023-10-06",
+                "match_round": "d",
+                "match_ticket": "Hong Kong Premier Youth League U18 (Championship Group)",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-10-07": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "1",
+                "match_id": 41185,
+                "match_date": "2023-10-07",
+                "match_round": "d",
+                "match_ticket": "Jockey Club Women's Football League (3rd Division)",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-10-08": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "09:00",
+                "match_id": 41185,
+                "match_date": "2023-10-08",
+                "match_round": "d",
+                "match_ticket": "Hong Kong Premier Youth League U14 (Championship Group)",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            },
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "13:00",
+                "match_id": 41185,
+                "match_date": "2023-10-08",
+                "match_round": "d",
+                "match_ticket": "$80, $30",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-10-10": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "1",
+                "match_id": 41185,
+                "match_date": "2023-10-10",
+                "match_round": "d",
+                "match_ticket": "Jockey Club Futsal League - Division 3",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-10-11": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "4",
+                "match_id": 41185,
+                "match_date": "2023-10-11",
+                "match_round": "d",
+                "match_ticket": "Jockey Club Futsal League - Division 3",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-10-12": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "0",
+                "match_id": 41185,
+                "match_date": "2023-10-12",
+                "match_round": "d",
+                "match_ticket": "Jockey Club Futsal League - Division 3",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ],
+        "2023-10-13": [
+            {
+                "match_time": "",
+                "home_score": "",
+                "guest_score": "Eastern District U16",
+                "match_id": 41185,
+                "match_date": "2023-10-13",
+                "match_round": "d",
+                "match_ticket": "Hong Kong Premier Youth League U16 (Challenging Group)",
+                "matchStatus": "g",
+                "match_status": "e",
+                "venue_id": "W",
+                "live_icon": [],
+                "Venue": {
+                    "venue_id": "W",
+                    "VenueName": "aF"
+                }
+            }
+        ]
+    }
+}
